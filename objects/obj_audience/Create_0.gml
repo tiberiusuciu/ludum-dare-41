@@ -1,0 +1,1 @@
+sprite_index = obj_game.audience_sprites[irandom(9)];
